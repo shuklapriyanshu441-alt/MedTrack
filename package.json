@@ -1,0 +1,11 @@
+{
+ "name": "medtrack-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix med-track run dev",
+    "build": "npm --prefix med-track run build",
+    "test": "npm --prefix med-track test",
+    "lint": "npm --prefix med-track run lint",
+    "preview": "npm --prefix med-track run preview"
+  }
+}
